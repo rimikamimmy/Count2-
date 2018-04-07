@@ -14,6 +14,7 @@
 		84990704205DFEAA001985CD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84990702205DFEAA001985CD /* LaunchScreen.storyboard */; };
 		8499070F205DFEAA001985CD /* Count2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8499070E205DFEAA001985CD /* Count2Tests.swift */; };
 		8499071A205DFEAA001985CD /* Count2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84990719205DFEAA001985CD /* Count2UITests.swift */; };
+		84990728205E01EF001985CD /* 背景.gif in Resources */ = {isa = PBXBuildFile; fileRef = 84990727205E01EE001985CD /* 背景.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		84990715205DFEAA001985CD /* Count2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Count2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84990719205DFEAA001985CD /* Count2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Count2UITests.swift; sourceTree = "<group>"; };
 		8499071B205DFEAA001985CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84990727205E01EE001985CD /* 背景.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "背景.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		849906F8205DFEAA001985CD /* Count2 */ = {
 			isa = PBXGroup;
 			children = (
+				84990727205E01EE001985CD /* 背景.gif */,
 				849906F9205DFEAA001985CD /* AppDelegate.swift */,
 				849906FB205DFEAA001985CD /* ViewController.swift */,
 				849906FD205DFEAA001985CD /* Main.storyboard */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84990704205DFEAA001985CD /* LaunchScreen.storyboard in Resources */,
+				84990728205E01EF001985CD /* 背景.gif in Resources */,
 				84990701205DFEAA001985CD /* Assets.xcassets in Resources */,
 				849906FF205DFEAA001985CD /* Main.storyboard in Resources */,
 			);

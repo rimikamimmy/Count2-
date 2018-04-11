@@ -26,6 +26,7 @@ class ViewController: UIViewController {
     @IBAction func plus(){
         number=number+1
         label.text=String(number)
+        label.font = UIFont.boldSystemFont(ofSize: 100)//systemFont(ofSize:100)
     }
     
     @IBAction func minus(){

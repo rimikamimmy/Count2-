@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		840C1367207E010700715A95 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 840C1366207E010700715A95 /* icon.png */; };
 		849906FA205DFEAA001985CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849906F9205DFEAA001985CD /* AppDelegate.swift */; };
 		849906FC205DFEAA001985CD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849906FB205DFEAA001985CD /* ViewController.swift */; };
 		849906FF205DFEAA001985CD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 849906FD205DFEAA001985CD /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		840C1366207E010700715A95 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 		849906F6205DFEAA001985CD /* Count2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Count2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		849906F9205DFEAA001985CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		849906FB205DFEAA001985CD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 		849906F8205DFEAA001985CD /* Count2 */ = {
 			isa = PBXGroup;
 			children = (
+				840C1366207E010700715A95 /* icon.png */,
 				84990727205E01EE001985CD /* 背景.gif */,
 				849906F9205DFEAA001985CD /* AppDelegate.swift */,
 				849906FB205DFEAA001985CD /* ViewController.swift */,
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84990704205DFEAA001985CD /* LaunchScreen.storyboard in Resources */,
+				840C1367207E010700715A95 /* icon.png in Resources */,
 				84990728205E01EF001985CD /* 背景.gif in Resources */,
 				84990701205DFEAA001985CD /* Assets.xcassets in Resources */,
 				849906FF205DFEAA001985CD /* Main.storyboard in Resources */,
